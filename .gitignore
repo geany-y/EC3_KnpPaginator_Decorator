@@ -1,7 +1,6 @@
 !dummy
 !.gitmodule
 composer.phar
-/vendor/
 /app/cache/*
 /app/config/eccube/config.yml
 /app/config/eccube/database.yml
